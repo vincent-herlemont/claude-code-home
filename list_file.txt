@@ -1,0 +1,18 @@
+# List of files to copy to ~/.claude/
+# One relative path per line
+# Lines starting with # are ignored
+
+commands/feature/create.md
+commands/feature/next-agent.md
+
+agents/feature/next-0-plan.md
+agents/feature/next-1-code.md
+agents/feature/next-2-check.md
+agents/feature/next-3-0-fixbug-plan.md
+agents/feature/next-3-1-fixbug-code.md
+agents/feature/next-4-update-plan.md
+
+commands/workflow/create_context.md
+commands/workflow/resume_context.md
+
+commands/workflow/squash.md
